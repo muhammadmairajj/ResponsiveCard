@@ -2,5 +2,5 @@
 ResponsiveCard using
 HTML
 CSS
-AND
+And
 FlexBox
